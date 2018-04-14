@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git track changes of files.
 Creatint a new branch is quick.
+Creating a new branch again.
+Why?
