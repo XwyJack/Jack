@@ -7,4 +7,4 @@ Git track changes of files.
 Creatint a new branch is quick.
 Creating a new branch again.
 Why?
-Creating a new branch is quick&simple
+Creating a new branch is quicks and simple.
